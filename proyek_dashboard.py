@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Membaca data
-DATA_PATH = "G:\Tugas Ospek & Kuliah ITS\Dicoding 2024\day.csv"
+DATA_PATH = "day.csv"
 data = pd.read_csv(DATA_PATH)
 
 # Konfigurasi Streamlit
